@@ -8,5 +8,9 @@ O objetivo deste projeto foi reconstruir uma interface semelhante a da página d
  - CSS3 
  - Flexbox
  
+ #### Veja como ficou:
+ 
+ ![fotoinstagram](https://user-images.githubusercontent.com/95874624/155846007-423aa632-0d4d-4b57-bad3-319da0f4aff9.png)
+ 
 
 
